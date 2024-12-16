@@ -8,14 +8,12 @@ function Vision() {
             <div className="py-10">
                 <div>
                     <div>
-                        <div className="justify-center ml-4 text-[#E8AED9]">
-                            <h1 className="text-xl text-center">Mission</h1>
+                        <div className="justify-center ml-4 px-50 text-[#E8AED9]">
+                            <h1 className="text-2xl font-bold text-center">Mission</h1>
                             <p className="text-6xl pt-10 font-extrabold text-center">
-                                Modernize spiritual practices,<br />
-                                making them accessible,<br />
-                                trustworthy, and impactful<br />
-                                for everyone seeking clarity,<br />
-                                connection, and growth<br />
+                                Modernize spiritual practices, making them accessible, trustworthy,
+                                and impactful for everyone seeking clarity,
+                                connection, and growth
                                 in their spiritual journey.
                             </p>
                         </div>
