@@ -10,7 +10,7 @@ function Vision() {
                     <div>
                         <div className="justify-center ml-4 text-[#E8AED9]">
                             <h1 className="text-xl text-center">Mission</h1>
-                            <p className="text-4xl pt-10 font-extrabold text-center">
+                            <p className="text-6xl pt-10 font-extrabold text-center">
                                 Modernize spiritual practices,<br />
                                 making them accessible,<br />
                                 trustworthy, and impactful<br />

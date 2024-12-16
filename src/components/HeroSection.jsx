@@ -22,7 +22,7 @@ function HeroSection() {
                         </div>
                     </div>
                 </div>
-                <div className="left-40 w-2/4 object-cover rounded-[50px] overflow-hidden">
+                <div className="left-40 w-2/4 mt-20 object-cover rounded-[50px] overflow-hidden">
                     <video autoPlay loop muted >
                         <source src={introVideo} type="video/mp4" />
                     </video>
