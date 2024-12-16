@@ -15,7 +15,7 @@ function Navbar() {
             </div>
             <ul>
                 {Pages.map((page) => (
-                    <li className="inline-block px-4 py-2 hover:bg-slate-700 transition-colors cursor-pointer">
+                    <li className="inline-block px-4 py-2 hover:bg-slate-700 transition-colors cursor-pointer font-bold">
                         <a href={page.link}>{page.name}</a>
                     </li>
                 ))}
