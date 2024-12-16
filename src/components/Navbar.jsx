@@ -3,7 +3,7 @@ import { Pages } from '../constants';
 
 function Navbar() {
     return (
-        <div className="flex items-center gap-4">
+        <div className="hidden lg:flex items-center gap-4 ">
             <div className="p-2 rounded-full border border-gray-300 hover:bg-white-700 transition-colors cursor-pointer">
                 <Instagram className="w-5 h-5" />
             </div>
